@@ -1,17 +1,20 @@
 ## Learn-Rust
 
-### Text
+[**The Rust Programming Language**](https://doc.rust-lang.org/nightly/book//) - Introduction into Rust.
 
-[The Rust Programming Language](https://doc.rust-lang.org/book/)
+[**Rust for Rustaceans**](https://rust-for-rustaceans.com/) - Best choice after you've learnt basics.
 
-[Rust for Rustaceans](https://rust-for-rustaceans.com/)
+[**Cookbook**](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 
-[Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
+[**Cheatsheet**](https://cheats.rs/)
 
-[Cheatsheet](https://cheats.rs/)
+[**Standard Library Docs**](https://doc.rust-lang.org/nightly/std/)
 
-[Standard Library Docs](https://doc.rust-lang.org/stable/std/)
+[**The Rust Reference**](https://doc.rust-lang.org/nightly/reference/introduction.html) - Rust reference book.
 
-### Video
+[**The Rustonomicon**](https://doc.rust-lang.org/nightly/reference/introduction.html) - The Dark Arts of Unsafe Rust
 
-[Jon Gjengset](https://www.youtube.com/c/jongjengset)
+[**Rustc Internals doc**](https://doc.rust-lang.org/nightly/nightly-rustc/rustc_middle/) - Rust compiler internal docs.
+
+
+[**Jon Gjengset**](https://www.youtube.com/c/jongjengset)
