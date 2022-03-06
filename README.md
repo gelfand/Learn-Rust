@@ -16,5 +16,7 @@
 
 [**Rustc Internals doc**](https://doc.rust-lang.org/nightly/nightly-rustc/rustc_middle/) - Rust compiler internal docs.
 
+[**Algorithmic Thinking: A Problem-Based Introduction**](https://www.amazon.com/Algorithmic-Thinking-Problem-Based-Daniel-Zingaro/dp/1718500807) - Not related to Rust, but generally pretty useful book on algorithms.
+
 
 [**Jon Gjengset**](https://www.youtube.com/c/jongjengset)
